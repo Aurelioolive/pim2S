@@ -1,2 +1,2 @@
-# pim2S
-First semester C system design
+# Projeto Integrado Multidisciplinar - Primeiro semestre - Universidade Paulista
+O pedido do projeto consistia em um sistema em C++ para clinicas.
